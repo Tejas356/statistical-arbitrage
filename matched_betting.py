@@ -3,9 +3,6 @@
 from fractions import Fraction
 
 def utilities():
-
-
-
     def findOdds(odds):  ## useless as we can just put in float - may be useful if made into webscraper
         # find first odd
         firstOdd = [] 
